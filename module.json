@@ -1,8 +1,8 @@
 {
   "id": "openclaw-api-bridge",
   "title": "OpenClaw API Bridge",
-  "description": "Ermöglicht OpenClaw direkte NPC-, Journal- und Szenen-Erstellung in Foundry VTT",
-  "version": "1.0.0",
+  "description": "Ermöglicht OpenClaw direkte NPC-, Journal- und Szenen-Erstellung via WebSocket",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"
@@ -11,5 +11,5 @@
   "esmodules": ["scripts/api-bridge.js"],
   "socket": true,
   "manifest": "https://raw.githubusercontent.com/zbasler93/foundry-vtt-api/main/module.json",
-  "download": "https://github.com/zbasler93/foundry-vtt-api/archive/refs/tags/v1.0.0.zip"
+  "download": "https://github.com/zbasler93/foundry-vtt-api/archive/refs/tags/v1.1.0.zip"
 }
